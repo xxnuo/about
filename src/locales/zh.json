@@ -1,0 +1,10 @@
+{
+  "profile": {
+    "title": "全栈开发工程师"
+  },
+  "nav": {
+    "blog": "我的博客",
+    "portfolio": "作品集",
+    "resume": "简历"
+  }
+} 

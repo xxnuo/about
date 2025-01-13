@@ -1,0 +1,10 @@
+{
+  "profile": {
+    "title": "Full Stack Developer"
+  },
+  "nav": {
+    "blog": "Blog",
+    "portfolio": "Portfolio",
+    "resume": "Resume"
+  }
+} 
